@@ -20,9 +20,9 @@ Bitcoinmining ist schwer profitabel zu machen, aber wenn du es probierst dann is
 
 ## Wie Bitcoinmining funktioniert
 
-Before du anfängst Bitcoin zu verdienen ("to mine"), ist es sinnvoll zu verstehen was Bitcoinmining wirklich bedeutet. Bitcoinmining ist legal und wird ermöglicht durch das durchlaufen eines "SHA256 double round hash" Verifizierungsprozess zur Bestätigung der Bitcointransaktionen und bereitstellung der nötigen Sicherheit für den öffentlichen Hauptbuches des Bitcoinnetzwerks. Die Geschwindigkeit mit der du Bitcoins verdienst wird in Hashes die Sekunde gemessen.
+Bevor du anfängst Bitcoin zu verdienen ("to mine"), ist es sinnvoll zu verstehen was Bitcoinmining wirklich bedeutet. Bitcoinmining ist legal und wird ermöglicht durch das durchlaufen eines "SHA256 double round hash" Verifizierungsprozess zur Bestätigung der Bitcointransaktionen und Bereitstellung der nötigen Sicherheit für das öffentliche Hauptbuch des Bitcoinnetzwerks. Die Geschwindigkeit mit der du Bitcoins verdienst wird in Hashes die Sekunde gemessen.
 
-Das Bitcoinnetzwerk zahlt Bitcoinminer für ihre Mühe indem Bitcoins freigegeben werden an die Personen, die die nötige Rechenkraft verfügbar gemacht haben. Diese Bitcoins kommen durch neuausgegebene Bitcoins und Transaktionsgebühren bei den validierten Überweisungen zusammen. Desto mehr Rechenkraft du bereitstellst, desto größer ist dein Anteil an der Belohnung.
+Das Bitcoinnetzwerk bezahlt Bitcoinminer für ihre Mühe, indem Bitcoins freigegeben werden an die Personen, die die nötige Rechenkraft verfügbar gemacht haben. Diese Bitcoins kommen durch neuausgegebene Bitcoins und Transaktionsgebühren bei den validierten Überweisungen zusammen. Desto mehr Rechenkraft du bereitstellst, desto größer ist dein Anteil an der Belohnung.
 
 <hr style="width: 100%; margin: 20px 0; color: #eee;" />
 <img src="/images/icons/icon-gs-bitcoin-mining-hardware.png" alt="Kaufe Bitcoinmining Hardware" align="right">
@@ -33,6 +33,6 @@ Das Bitcoinnetzwerk zahlt Bitcoinminer für ihre Mühe indem Bitcoins freigegebe
 
 ## Wie man anfängt Bitcoins zu verdienen
 
-Um anzufangen Bitcoins zu verdienen, wirst du dir Mininghardware besorgen müssen. In den frühen Tagen von Bitcoin war es möglich mit seinem Computerprozessor oder einer schnellen Grafikkarte Bitcoinmining zu betreiben. Heute ist das nicht mehr möglich. Besondere Bitcoin ASIC Chips bieten Leistungen von bis zu 100x der von älteren Systemen und dominieren nun die Bitcoinminingindustrie.
+Um anzufangen Bitcoins zu verdienen, wirst du dir Mininghardware besorgen müssen. In den frühen Tagen von Bitcoin war es möglich mit seinem Computerprozessor oder einer schnellen Grafikkarte Bitcoinmining zu betreiben. Heute ist das nicht mehr möglich. Besondere Bitcoin ASIC Chips bieten bis zu 100fach mehr Leistung als die älteren Systeme und dominieren nun die Bitcoinmining Industrie.
 
-Bitcoinmining mit weniger wird mehr Elektrizität verbrauchen als du wahrscheinlich verdienst. Es ist notwendig Bitcoins mit der besten Bitcoinmininghardware, welche speziell dafür gebaut ist, zu verdienen. Einige Firmen wie z.b. Avalon bieten exzellente System speziell für das Bitcoinmining hergestellt.
+Bitcoinmining mit weniger, wird mehr Elektrizität verbrauchen als du wahrscheinlich verdienst. Es ist notwendig Bitcoins mit der besten Bitcoinmininghardware, welche speziell dafür gebaut ist, zu verdienen. Einige Firmen wie z.b. Avalon bieten exzellente System speziell für das Bitcoinmining her an.
